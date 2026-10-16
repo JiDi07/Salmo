@@ -1,4 +1,4 @@
-Hiii!! Big props to the YT channel @codingstar8227 for the tutorial 'Let´s make a Flip Book using basic (HTML,CSS, JavaScript) step by step guide!!
+Hiii!! Big props to the YT channel @codingstar8227 for the tutorial 'Let´s make a Flip Book using basic (HTML,CSS, JavaScript) step by step guide!! github: codingstar-jason
 This is my first, first "serious" project and I´m looking forward to keep building my knowledge.
 The idea of a flipping Bible Book Web is in early stages, since I´m still a learning programmer... The idea of uploading this to github was to receive feedback from the 
 community ^v^ you who have being into practical projects and know more than me. 
