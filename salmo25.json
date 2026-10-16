@@ -1,0 +1,254 @@
+[
+{
+          "usfm": "PSA.25",
+          "human": "Salmos 25",
+          "previous": {
+            "usfm": "PSA.24",
+            "human": "Salmos 24"
+          },
+          "next": {
+            "usfm": "PSA.26",
+            "human": "Salmos 26"
+          },
+          "items": [
+            {
+              "type": "heading1",
+              "verse_numbers": [],
+              "lines": [
+                "David implora dirección, perdón y protección"
+              ],
+              "rlw_lines": []
+            },
+            {
+              "type": "label",
+              "verse_numbers": [],
+              "lines": [
+                "Salmo de David."
+              ],
+              "rlw_lines": []
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [1],
+              "lines": [
+                "A ti, oh Jehová, levantaré mi alma."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [2],
+              "lines": [
+                "Dios mío, en ti confío;",
+                "No sea yo avergonzado,",
+                "No se alegren de mí mis enemigos."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [3],
+              "lines": [
+                "Ciertamente ninguno de cuantos esperan en ti será confundido;",
+                "Serán avergonzados los que se rebelan sin causa."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [4],
+              "lines": [
+                "Muéstrame, oh Jehová, tus caminos;",
+                "Enséñame tus sendas."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [5],
+              "lines": [
+                "Encamíname en tu verdad, y enséñame,",
+                "Porque tú eres el Dios de mi salvación;",
+                "En ti he esperado todo el día."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [6],
+              "lines": [
+                "Acuérdate, oh Jehová, de tus piedades y de tus misericordias,",
+                "Que son perpetuas."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [7],
+              "lines": [
+                "De los pecados de mi juventud, y de mis rebeliones, no te acuerdes;",
+                "Conforme a tu misericordia acuérdate de mí,",
+                "Por tu bondad, oh Jehová."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [8],
+              "lines": [
+                "Bueno y recto es Jehová;",
+                "Por tanto, él enseñará a los pecadores el camino."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [9],
+              "lines": [
+                "Encaminará a los humildes por el juicio,",
+                "Y enseñará a los mansos su carrera."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [10],
+              "lines": [
+                "Todas las sendas de Jehová son misericordia y verdad,",
+                "Para los que guardan su pacto y sus testimonios."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [11],
+              "lines": [
+                "Por amor de tu nombre, oh Jehová,",
+                "Perdonarás también mi pecado, que es grande."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [12],
+              "lines": [
+                "¿Quién es el hombre que teme a Jehová?",
+                "Él le enseñará el camino que ha de escoger."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [13],
+              "lines": [
+                "Gozará él de bienestar,",
+                "Y su descendencia heredará la tierra."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [14],
+              "lines": [
+                "La comunión íntima de Jehová es con los que le temen,",
+                "Y a ellos hará conocer su pacto."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [15],
+              "lines": [
+                "Mis ojos están siempre hacia Jehová,",
+                "Porque él sacará mis pies de la red."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [16],
+              "lines": [
+                "Mírame, y ten misericordia de mí,",
+                "Porque estoy solo y afligido."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [17],
+              "lines": [
+                "Las angustias de mi corazón se han aumentado;",
+                "Sácame de mis congojas."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [18],
+              "lines": [
+                "Mira mi aflicción y mi trabajo,",
+                "Y perdona todos mis pecados."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [19],
+              "lines": [
+                "Mira mis enemigos, cómo se han multiplicado,",
+                "Y con odio violento me aborrecen."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [20],
+              "lines": [
+                "Guarda mi alma, y líbrame;",
+                "No sea yo avergonzado, porque en ti confié."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [21],
+              "lines": [
+                "Integridad y rectitud me guarden,",
+                "Porque en ti he esperado."
+              ],
+              "rlw_lines": [],
+              "np": true
+            },
+            {
+              "type": "verse",
+              "verse_numbers": [22],
+              "lines": [
+                "Redime, oh Dios, a Israel",
+                "De todas sus angustias."
+              ],
+              "rlw_lines": [],
+              "np": true
+            }
+          ]
+        }
+    ]
